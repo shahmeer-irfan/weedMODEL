@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pillow
+torch
+opencv-python
+numpy
+huggingface
+transformers
+python-multipart
+pandas
+soundfile
+meteomatics
+requests
